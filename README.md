@@ -16,7 +16,7 @@ This project is a fully responsive and interactive website built primarily with 
 
 ## Video
 
-You can download the video file [here](https://github.com/immadhav31/MVCreations/blob/main/Video.mp4).
+You can watch the video(website) file [here](https://youtu.be/A4USJKlcxj0).
 
 ## Technologies Used
 
